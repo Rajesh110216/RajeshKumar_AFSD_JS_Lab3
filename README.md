@@ -1,4 +1,4 @@
-Weather-App
+Weather-App (RajeshKumar_AFSD_JS_Lab3)
 
 API taken from openwheathermap.org
 
