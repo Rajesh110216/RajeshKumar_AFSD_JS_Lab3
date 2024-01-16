@@ -57,7 +57,7 @@ class WeatherApp {
 
     const temperatureTypeElement = document.querySelector(
       ".current .weather");
-    temperatureTypeElement.innerText = `${responseJSON.weather[0].main}`;
+    temperatureTypeElement.innerText = `${responseJSON.weather[1].main}`;
 
     const lowHighTemperatureElement 
       = document.querySelector(".current .hi-low");
